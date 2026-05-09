@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Scifi9902&count_private=true)
+![Scifi9902's github stats](https://github-readme-stats.vercel.app/api?username=Scifi9902&count_private=true)
 
 
 <!--
